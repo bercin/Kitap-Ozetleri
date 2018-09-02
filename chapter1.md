@@ -1,3 +1,8 @@
-# First Chapter
+> ###### 02.09.2018 - Pazar
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+# Beyaz Zambaklar Ülkesi 
+
+**Konu :** Bir ulusun nasıl yükseleceğini, aydınların ve seçkinlerin görevlerini, gerçek vatan severliğive ulusa gerçek hizmetin nasıl yapılacağının gösterilmesi.
+
+
+

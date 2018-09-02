@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Giriş](README.md)
+* [Beyaz Zambaklar Ülkesi](chapter1.md)
+
