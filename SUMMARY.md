@@ -7,4 +7,5 @@
   * [Hayatta Başarının İpuçları](kisisel-gelisim/hayatta-basarinin-i-pu-c-lar-i.md)
   * [10 Öğüt](kisisel-gelisim/10-ogut.md)
   * [Başarıyı Besleyen Ritueller](kisisel-gelisim/basariyi-besleyen-ritueller.md)
+  * [Beyin geliştirme tekniği](kisisel-gelisim/beyin-gelistirme-teknigi.md)
 
